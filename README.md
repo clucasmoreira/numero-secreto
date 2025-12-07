@@ -1,7 +1,13 @@
 <h1>Jogo do Número Secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto feito a partir dos cursos de lógica de programação da Alura.</p>
+<p>Projeto desenvolvido a partir dos cursos de lógica de programação da Alura. O objetivo é praticar conceitos fundamentais como variáveis, condicionais, loops e interação com o usuário.</p>
+
+## 🎯 Objetivo do Jogo
+<p> O jogo gera um número secreto aleatório entre 1 e 50. O usuário deve tentar adivinhar esse número dando um chute inicial:
+  
+- Se <b>acertar</b>, o programa exibe uma mensagem de sucesso.  
+- Se <b>errar</b>, o programa fornece dicas, informando se o número chutado é maior ou menor que o número secreto, permitindo que o usuário tente novamente até acertar.</p>
 
 ## 🚀 Tecnologias
 <div>
